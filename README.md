@@ -87,7 +87,7 @@ You never have to press anything to apply your skins.
 
 - As champion select ends, FrYiLoCo briefly holds League's game launch while it builds your
   skins, then lets it go. You can still change skins until about three seconds after the game
-  has started, and your latest choice is used. The hold never lasts longer than 40 seconds.
+  has started, and your latest choice is used. The hold never lasts longer than 50 seconds.
 - It works in Summoner's Rift, ARAM, ARAM: Mayhem and Arena.
 - **Force Patch.** If your game closes while the match is still running, because of a crash
   or because you quit to change a skin, the status bar turns into **Force Patch**. Press it
