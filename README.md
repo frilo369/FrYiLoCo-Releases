@@ -171,6 +171,13 @@ During loading or a game, press **F1** to open the MetaSRC build page for your c
 its own window, with the ads hidden. You can choose another key in **Settings > Behaviour**.
 MetaSRC never opens by itself, and it closes when the game ends.
 
+**ARAM: Mayhem** uses an English guide powered by Tencent 101's Mayhem data, with
+proper game names for champions, items and augments. It includes augment grades,
+always-visible Silver, Gold and Prismatic sections, full item builds and skill orders.
+The compact page shows the dataset date and opens saved recommendations immediately
+while checking for updates in the background.
+Arena, regular ARAM and Summoner's Rift keep MetaSRC.
+
 ## Settings
 
 Open Settings with the gear on the top bar.
